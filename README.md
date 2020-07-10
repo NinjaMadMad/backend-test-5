@@ -1,4 +1,6 @@
 # [Aircall.io](https://aircall.io) - Backend technical test
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNinjaMadMad%2Fbackend-test-5.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FNinjaMadMad%2Fbackend-test-5?ref=badge_shield)
+
 
 This test is a part of our hiring process at Aircall for [backend positions](https://jobs.aircall.io). It should take you between 2 and 4 hours depending on your experience.
 Hope you will have as much fun as we did coding this test!
@@ -75,3 +77,7 @@ Contact us at jobs@aircall.io if you need more details.
 ## Submission
 
 Fork this repository and send us a pull request. We will review it and get back to you in order to talk about your code!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNinjaMadMad%2Fbackend-test-5.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FNinjaMadMad%2Fbackend-test-5?ref=badge_large)
